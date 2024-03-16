@@ -1,5 +1,4 @@
-## Building Plastic Free Rivers with AI hackathon conducted by Reva University
-
+# River Guardian
 --------------------------------------
 
 
